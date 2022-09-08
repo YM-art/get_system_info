@@ -1,0 +1,15 @@
+﻿  get_system_info.cpp
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(51,13): warning C4002: 类函数宏的调用“TEXT”参数过多
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(51,13): warning C4473: “wprintf”: 没有为格式字符串传递足够的参数
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(51,13): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(51,13): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(193,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(193,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(288,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(314,3): warning C4129: “S”: 不可识别的字符转义序列
+C:\Users\wangyimeng\Desktop\Project1\get_system_info.cpp(393,134): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 145 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\wangyimeng\Desktop\Project1\x64\Release\get_system_info.exe
